@@ -1,3 +1,4 @@
+```python
 #INGRESO DE DATOS POR CONSOLA
 print("⬇️")
 #Solicita el nombre y edad del usuario, luego imprime un saludo personalizado que incluya ambos datos.
@@ -33,3 +34,4 @@ resultado2 = num*3
 
 print (f"El doble de {num} es: {resultado1}")
 print (f"El triple de {num} es: {resultado2}")
+``` 
